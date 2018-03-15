@@ -1,4 +1,4 @@
-# hello-vue (Unfinished)
+# hello-vue
 
 > A Vue.js project
 
